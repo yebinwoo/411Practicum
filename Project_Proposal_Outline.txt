@@ -9,3 +9,17 @@ Potential uses:
   1. Just monitoring someone's health
   2. A more advanced version of this is used in measuring vitals for racing drivers
   3. With add ons, it could serve as a remote monitoring system for anyone (that's the ideal goal for this project, but we aren't sure if it can be realized)
+
+Sensors:
+  a. Electrodes for heart rate
+  b. Stretch band for respiratory rate
+  c. TMP36 temperature sensors
+  
+Outputs:
+  a. Continuous graph plotted - parameter vs. time
+  b. LEDs mimicking heartbeat
+  
+Plan:
+  a. Develop circuits that work with a pre-built microcontroller
+  b. Build our own microcontroller with an Atmel processor
+  c. Replicate same operation on our built microcontroller
