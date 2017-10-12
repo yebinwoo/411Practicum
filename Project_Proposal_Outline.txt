@@ -33,3 +33,11 @@ Description: This project would help disabled people operate vehicles by moving 
 Input: hand motion (controlling the accelerometer and using a transmitter)
 Output: forward and backward motion of the robotic vehicle (using servo motors and a receiver)   
 ________________________________________________________________________________________________________________________________________
+
+Project Proposal #3:
+Fire Extinguisher Robot
+
+Description: This project is intended to help firefighter extinguish fires in extremly dangerous environment. The robot will be on a 2 wheel chassis, have multiple temp. and flame sensors and a spray pump.
+
+INPUT: Air temp, IR flame sensor, Ultrasonic sensor.
+OUTPUT: Wheel motors, and pump motor.
