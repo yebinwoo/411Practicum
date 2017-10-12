@@ -23,3 +23,11 @@ Plan:
   a. Develop circuits that work with a pre-built microcontroller
   b. Build our own microcontroller with an Atmel processor
   c. Replicate same operation on our built microcontroller
+
+Project Proposal #2:
+Hand motion controlled robotic vehicle
+
+Description: This project would help disabled people operate vehicles by moving their hands. The motion controlled robotic vehicle would respond to the tilting of the transmitter that could either be attached to your gloves, watch or a band. My hand motion would act like a remote control and the vehicle could be a car or even their wheel chair.
+
+Input: hand motion (controlling the accelerometer and using a transmitter)
+Output: forward and backward motion of the robotic vehicle (using servo motors and a receiver)   
