@@ -17,4 +17,5 @@
     c. Assigned ARs to team for ownership of the blocks we are starting with.
     
   Yebin:
-    a.
+    a. Organized BOM and sort out which components to which vendors.
+    b. Looked into chassis and motor driver ic. 
