@@ -1,0 +1,20 @@
+10/9/17 - 10/15/17
+
+  Team:
+    a. Created an organizational structure (will be organized into a report that's due 10/19
+    b. Set up a working environment - GitHub and Google Spreadsheets
+    c. Decided on processors/accelerometer/transceiver/power delivery method
+  
+  Gomathy:
+    a.
+  
+  Mark:
+    a.
+  
+  Tapas:
+    a. Explored methods of power delivery (zener voltage regulators/voltage divider/voltage regulator chip) and concluded that we will use buck converters because of their efficiency, and because they're cool
+    b. Pushed team to decide on parts ADXL345 (accelerometer) and NRF24L01+ (transceivers) by determining which were optimal
+    c. Assigned ARs to team for ownership of the blocks we are starting with.
+    
+  Yebin:
+    a.
