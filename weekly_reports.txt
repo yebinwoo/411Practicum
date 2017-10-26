@@ -19,3 +19,23 @@
   Yebin:
     a. Organized BOM and sort out which components to which vendors.
     b. Looked into chassis and motor driver ic. 
+
+
+10/16/17 - 10/23/17
+
+Team:
+a. Worked on preliminary schematic using Eaglecad on 10/14/17
+b. Parts are orderd (on 10/14/17) and arrived.
+c. Decided not to use PIC on the receiver side and voltage regulators (L7805 and LM1115) to drop down 9V to 5V and 3.3V, respectively. 
+
+Gomathy:
+Mark:
+Tapas:
+Yebin:
+a. Worked on the preliminary schematic using Eaglecad. Board layout hasn't been done yet.
+
+10/24/17 - 10/31/17
+Team:
+Gomathy:
+Tapas:
+Yebin:
