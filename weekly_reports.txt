@@ -37,6 +37,7 @@ a. Worked on the preliminary schematic using Eaglecad. Board layout hasn't been 
 10/24/17 - 10/31/17
 Team:
 Gomathy:
+Mark:
 Tapas:
 Yebin:
 a.
